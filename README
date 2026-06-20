@@ -1,0 +1,9 @@
+# Stm32f03 
+# TB6600  motor Driver
+# 2 stepprer motor for x , y axis
+# characterisric lcd 2*16
+#rotary encoder
+#ch340g for programming
+#buzzer and rgb for alarming users
+# Micro control motors by a driver and receive usres commands with a encoder ,switchs and a lcd characterstic.
+#pulse was generating for stepper motor
